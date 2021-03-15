@@ -1,0 +1,81 @@
+[
+    {
+        "codigo": 5000,
+        "nombre": "Mouse Gamer",
+        "Descripcion": "RATON GAMER USB. mouse óptico para juego. Construcción robusta. Ergonómicamente diseñado para mejorar el agarre y la comodidad",
+        "Precio": 10.5,
+        "imgurl": "https://intercompras.com/images/product/QUARONI_OGMM02.jpg"
+    },
+
+    {
+        "codigo": 5001,
+        "nombre": "Teclado Gamer",
+        "Descripcion": "Teclado Gamer Argom. Luz cambiante del arco iris del fondo y letras iluminadas. Compatible con la mayoría de los sistemas operativos.",
+        "Precio": 15.89,
+        "imgurl": "https://http2.mlstatic.com/D_NQ_NP_774176-MLA32822543298_112019-O.jpg"
+    },
+
+    {
+        "codigo": 5002,
+        "nombre": "Almohadilla Gamer",
+        "Descripcion": "duplicará el área de juego haciendo que la superficie sea adecuada para jugar con el mouse. Colores: superficie negro con bordes de iluminacion LED. Dimensiones (en milimetros) : 350x444",
+        "Precio": 5.43,
+        "imgurl": "https://i.pinimg.com/originals/a5/b3/7d/a5b37dc4a495653e181e01589eea69d0.jpg"
+    },
+
+    {
+        "codigo": 5003,
+        "nombre": "Audifonos Bluetooth",
+        "Descripcion": "Auriculares Bluetooth. Máxima potencia de salida: 10mW Margen de frecuencias: 20Hz-20.000Hz Impedancia: 32? ± 15% Sensibilidad: 90 dB Conectividad: Bluetooth® V4.1",
+        "Precio": 15,
+        "imgurl": "https://s3.amazonaws.com/imagenes-sellers-mercado-ripley/2019/06/17172919/I88STWS-T-ripley.jpg"
+    },
+
+    {
+        "codigo": 5004,
+        "nombre": "Audifonos KHS-220",
+        "Descripcion": "Con un diseño compacto y dotado, con parlantes dinámicos de 10mm, Cable de 120cm con conector de 3.5mm",
+        "Precio": 6.75,
+        "imgurl": "https://s3.amazonaws.com/online.storage/SEVASA/Products/2c3ef44c-7c96-482f-af14-b7abeeadf5b0.jpg"
+    },
+
+    {
+        "codigo": 5005,
+        "nombre": "Funda para laptop 15''",
+        "Descripcion": "Apta para laptops de hasta: 15,6 pulgadas. Número de compartimientos: Un compartimiento principal con cierre.",
+        "Precio": 18.65,
+        "imgurl": "https://s3.amazonaws.com/online.storage/SEVASA/Products/bd4cc80e-ee0e-4d2b-b4f4-89c8fbcf8e92.JPG"
+    },
+
+    {
+        "codigo": 5006,
+        "nombre": "Enfriador para laptop",
+        "Descripcion": "Enfriador Xtech para laptop Tamaños compatibles de laptops: Hasta 17''. Base ajustable con seis ventiladores silenciosos de 80 mm con LED azu",
+        "Precio": 23.78,
+        "imgurl": "https://www.comoenbahia.com/1838-large_default/notebook-stand-xtech-kyla-gaming-xta-160.jpg"
+    },
+
+    {
+        "codigo": 5007,
+        "nombre": "Laptop gamer ASUS",
+        "Descripcion": "Laptop ASUS. Procesador i7-10750H, Disco Duro 512 SSD , Memoria RAM 8GB DDR4",
+        "Precio": 890.65,
+        "imgurl": "https://www.lacuracao.pe/wcsstore/efe_cat_as/646x1000/curacao/FX506LI-HN039T_1.jpg"
+    },
+
+    {
+        "codigo": 5008,
+        "nombre": "Camara web Argon",
+        "Descripcion": "Cámara web full HD 1080P con micrófono y LED.",
+        "Precio": 39.89,
+        "imgurl": "https://comtech.com.ni/wp-content/uploads/2020/08/C%C3%A1mara-Web-Argom-Full-HD-1080p-con-micr%C3%B3fono-y-LED.png"
+    },
+
+    {
+        "codigo": 5009,
+        "nombre": "Memoria RAM DDR4 16GB",
+        "Descripcion": "HyperX® FURY DDR4 RGB1 ofrece una mejora de rendimiento y estilo con velocidades de hasta 3466MHz2",
+        "Precio": 54.45,
+        "imgurl": "https://www.venex.com.ar/products_images/1574457319_memoriaramddr416gbhyperxfuryrgb2666mhzdiginetd_nq_np_611865mlu32374736252_092019f.jpg"
+    }
+]
